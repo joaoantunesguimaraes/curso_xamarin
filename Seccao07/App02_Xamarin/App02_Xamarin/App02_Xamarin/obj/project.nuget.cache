@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQh03km3Qah8Lv1MuJJ922/qQsLtThBDEGZYMCwKjfMztOf5+EU7NZM6eUCaRxiJ0fH8ZNEtqaHZy8PxoEdsBQ==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\curso\\Seccao07\\App02_Xamarin\\App02_Xamarin\\App02_Xamarin\\App02_Xamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\2.5.0.122203\\xamarin.forms.2.5.0.122203.nupkg.sha512"
+  ],
+  "logs": []
+}

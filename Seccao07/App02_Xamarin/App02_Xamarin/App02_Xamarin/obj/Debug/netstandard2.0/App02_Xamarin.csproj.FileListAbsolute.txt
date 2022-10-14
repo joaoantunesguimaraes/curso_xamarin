@@ -1,0 +1,14 @@
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.deps.json
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.dll
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.pdb
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.csprojAssemblyReference.cache
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.AssemblyInfoInputs.cache
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.AssemblyInfo.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.csproj.CoreCompileInputs.cache
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.App.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.MainPage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.Master.Menu.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.Pages.Perfil1.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.Pages.Xamarin.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.dll
+E:\dev\meuxamarin\2019\curso\Seccao07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.pdb

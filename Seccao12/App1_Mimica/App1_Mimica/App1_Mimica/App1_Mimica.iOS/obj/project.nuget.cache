@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHQqYL7oLYOHv1y63OEBRM8ECd1DyJ1DPhcMsf9D9NJ44bVm03eDEZyXtOC9ZXY44xwKx1on/vcps9SmCUW8wQ==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\curso\\Seccao12\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.iOS\\App1_Mimica.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}

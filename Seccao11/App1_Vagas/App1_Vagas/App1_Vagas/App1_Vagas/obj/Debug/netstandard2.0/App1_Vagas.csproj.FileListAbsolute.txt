@@ -1,0 +1,17 @@
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\bin\Debug\netstandard2.0\App1_Vagas.deps.json
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\bin\Debug\netstandard2.0\App1_Vagas.dll
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\bin\Debug\netstandard2.0\App1_Vagas.pdb
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\Paginas\CadastrarVaga.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\Paginas\ConsultarVagas.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\Paginas\DetalharVaga.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\Paginas\EditarVaga.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\Paginas\MinhasVagasCadastradas.xaml.g.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.csproj.CoreCompileInputs.cache
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.AssemblyInfoInputs.cache
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.AssemblyInfo.cs
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.dll
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.pdb
+C:\dev\meuxamarin\2017\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOwVUTfhOulGE9yv7mgJy3ALZiai/TwdvSndO5QsGYW3KKnk+ICldzfoSCxu44hN1WUrhvhmUxctpZ7/KZnwcA==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\curso\\Seccao07\\App02_Xamarin\\App02_Xamarin\\App02_Xamarin.iOS\\App02_Xamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\2.5.0.122203\\xamarin.forms.2.5.0.122203.nupkg.sha512"
+  ],
+  "logs": []
+}

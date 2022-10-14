@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qhBEQhS7F7C5kQ5DzGeyKnicOHOEZi2PWjbf1emhY1Wx5v1YNSaqljMlu50SRHZ8h8HZcLt/1xd4yrj1JpsoA==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\curso\\Seccao07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\App01_LayoutXF.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\2.5.0.122203\\xamarin.forms.2.5.0.122203.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.deps.json
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.dll
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.pdb
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.AssemblyInfoInputs.cache
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.AssemblyInfo.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.csproj.CoreCompileInputs.cache
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.App.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.Layouts.Absolute.AbsolutePage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.Layouts.Grid.GridPage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.Layouts.Relative.RelativePage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.Layouts.Scroll.ScrollPage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.Layouts.Stack.StackPage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.MainPage.xaml.g.cs
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.dll
+E:\dev\meuxamarin\2019\curso\Seccao07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.pdb
